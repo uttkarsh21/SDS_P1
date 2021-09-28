@@ -12,7 +12,6 @@ public class p1TCPclient extends thisClient {
         String host_ = console.readLine("Enter a hostname : ");
         tcpClient = new p1TCPclient(port_,host_);
         tcpClient.clientLog.callLogger("initiated TCP server");
-
     }
 
     public p1TCPclient(String port_, String host_) {
