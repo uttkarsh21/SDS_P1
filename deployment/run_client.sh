@@ -11,5 +11,5 @@ fi
 # run client docker container with cmd args
 docker run -it --rm --name "$1" \
  --network $PROJECT_NETWORK $CLIENT_IMAGE \
- java client.ClientApp $SERVER_CONTAINER "$2" "$3"
+ java client.p1TCPclient $SERVER_CONTAINER "$2" "$3"
  # cmd to run client locally - java client.ClientApp localhost 1111 tcp

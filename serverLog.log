@@ -1,0 +1,12 @@
+Sep 27, 2021 10:04:35 PM logger.allLogger callLogger
+FINE: port is 1234 , on server type TCP , hostname is DESKTOP-LOJ1E4O
+Sep 27, 2021 10:04:35 PM logger.allLogger callLogger
+FINE: initiated TCP server
+Sep 27, 2021 10:04:35 PM logger.allLogger callLogger
+FINE: Listening for the client!
+Sep 27, 2021 10:07:12 PM logger.allLogger callLogger
+FINE: port is 1234 , on server type TCP , hostname is DESKTOP-LOJ1E4O
+Sep 27, 2021 10:07:12 PM logger.allLogger callLogger
+FINE: initiated TCP server
+Sep 27, 2021 10:07:12 PM logger.allLogger callLogger
+FINE: Listening for the client!
